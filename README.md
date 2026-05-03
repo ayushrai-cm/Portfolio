@@ -14,8 +14,8 @@ A personal portfolio website built to showcase my skills, projects, and achievem
 ##  How to Run
 
 git clone https://github.com/ayushrai-cm/Portfolio.git
-cd Portfolio
-Open index.html in your browser
+- cd Portfolio
+- Open index.html in your browser
 
 ##  Tech Used
 
